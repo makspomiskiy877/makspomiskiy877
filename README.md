@@ -50,5 +50,10 @@ Nmap Wireshark Suricata OWASP ZAP Nikto Kali Linux Ubuntu VirtualBox
 
 [Безопасность операционных систем, системное программирование](https://github.com/makspomiskiy877/makspomiskiy877/blob/main/Operating%20system%20security.pdf)
 
+[Современная разработка ПО]()
+
+[Администрирование СЗИ]()
+
+
 📂 Мои проекты
 
