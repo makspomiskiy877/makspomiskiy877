@@ -48,7 +48,7 @@ Nmap Wireshark Suricata OWASP ZAP Nikto Kali Linux Ubuntu VirtualBox
 
 [Git — система контроля версий IB](https://github.com/makspomiskiy877/makspomiskiy877/blob/main/Git%20%E2%80%94%20IB%20version%20control%20system.pdf)
 
-[Безопасность операционных систем, системное программирование]()
+[Безопасность операционных систем, системное программирование](https://github.com/makspomiskiy877/makspomiskiy877/blob/main/Operating%20system%20security.pdf)
 
 📂 Мои проекты
 
