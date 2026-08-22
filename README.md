@@ -43,6 +43,7 @@ Nmap Wireshark Suricata OWASP ZAP Nikto Kali Linux Ubuntu VirtualBox
 📜 Образование и сертификаты
 
 [Основы информационной безопасности](https://github.com/makspomiskiy877/makspomiskiy877/blob/main/certificate.pdf)
+
 [Сети передачи данных и безопасность](https://github.com/makspomiskiy877/makspomiskiy877/blob/main/Data%20Transmission%20Networks%20and.pdf)
 
 📂 Мои проекты
