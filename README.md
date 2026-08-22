@@ -46,5 +46,9 @@ Nmap Wireshark Suricata OWASP ZAP Nikto Kali Linux Ubuntu VirtualBox
 
 [Сети передачи данных и безопасность](https://github.com/makspomiskiy877/makspomiskiy877/blob/main/Data%20Transmission%20Networks%20and.pdf)
 
+[Git — система контроля версий IB](https://github.com/makspomiskiy877/makspomiskiy877/blob/main/Git%20%E2%80%94%20IB%20version%20control%20system.pdf)
+
+[Безопасность операционных систем, системное программирование]()
+
 📂 Мои проекты
 
