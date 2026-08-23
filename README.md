@@ -58,7 +58,7 @@ Nmap Wireshark Suricata OWASP ZAP Nikto Kali Linux Ubuntu VirtualBox
 
 [Реагирование на инциденты ИБ и проактивный поиск угроз](https://github.com/makspomiskiy877/makspomiskiy877/blob/main/Information%20Security%20Incident%20Response%20and%20Proactive%20Threat%20Hunting.pdf)
 
-
+[Аttack & Defence](https://github.com/makspomiskiy877/makspomiskiy877/blob/main/%D0%90ttack%20%26%20Defence.pdf)
 
 
 📂 Мои проекты
