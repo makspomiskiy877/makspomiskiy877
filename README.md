@@ -54,7 +54,9 @@ Nmap Wireshark Suricata OWASP ZAP Nikto Kali Linux Ubuntu VirtualBox
 
 [Администрирование СЗИ](https://github.com/makspomiskiy877/makspomiskiy877/blob/main/Administration%20of%20Information%20Security%20Tools.pdf)
 
-[Современная киберпреступность и методы противодействия]()
+[Современная киберпреступность и методы противодействия](https://github.com/makspomiskiy877/makspomiskiy877/blob/main/Modern%20Cybercrime%20and%20Countermeasures.pdf)
+
+
 
 
 📂 Мои проекты
