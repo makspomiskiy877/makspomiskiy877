@@ -56,6 +56,8 @@ Nmap Wireshark Suricata OWASP ZAP Nikto Kali Linux Ubuntu VirtualBox
 
 [Современная киберпреступность и методы противодействия](https://github.com/makspomiskiy877/makspomiskiy877/blob/main/Modern%20Cybercrime%20and%20Countermeasures.pdf)
 
+[Реагирование на инциденты ИБ и проактивный поиск угроз](https://github.com/makspomiskiy877/makspomiskiy877/blob/main/Information%20Security%20Incident%20Response%20and%20Proactive%20Threat%20Hunting.pdf)
+
 
 
 
