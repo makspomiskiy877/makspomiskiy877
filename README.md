@@ -62,6 +62,8 @@ Nmap Wireshark Suricata OWASP ZAP Nikto Kali Linux Ubuntu VirtualBox
 
 [Свидетельство](https://github.com/makspomiskiy877/makspomiskiy877/blob/main/Certificateend.pdf)
 
+[Диплом](https://github.com/makspomiskiy877/makspomiskiy877/blob/main/66891_dpp_2.pdf)
+
 
 
 
