@@ -11,7 +11,6 @@ Nmap — сканирование сети и обнаружение серви�
 Wireshark — анализ сетевого трафика
 OWASP ZAP — тестирование веб-приложений
 Nikto — поиск проблем конфигурации веб-серверов
-Suricata — обнаружение и анализ сетевых угроз
 Основы OSINT
 Основы тестирования веб-приложений на уязвимости
 Работа с виртуальными машинами VirtualBox
@@ -24,10 +23,6 @@ Suricata — обнаружение и анализ сетевых угроз
 
 Перехват и исследование сетевого трафика в Wireshark.
 
-Suricata IDS
-
-Настройка Suricata, создание правил обнаружения и анализ срабатываний IDS.
-
 Тестирование веб-приложений
 
 Практика поиска уязвимостей в учебных лабораторных средах с использованием OWASP ZAP, Nikto и ручного тестирования.
@@ -38,7 +33,7 @@ OSINT
 
 🧰 Инструменты
 
-Nmap Wireshark Suricata OWASP ZAP Nikto Kali Linux Ubuntu VirtualBox
+Nmap Wireshark OWASP ZAP Nikto Kali Linux Ubuntu VirtualBox
 
 📜 Образование и сертификаты
 
@@ -70,6 +65,8 @@ Nmap Wireshark Suricata OWASP ZAP Nikto Kali Linux Ubuntu VirtualBox
 📂 Портфолио
 
 Track Penetration Testing (Дипломная работа)
+
+
 
 
 
