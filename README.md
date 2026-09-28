@@ -64,7 +64,7 @@ Nmap Wireshark OWASP ZAP Nikto Kali Linux Ubuntu VirtualBox
 
 📂 Портфолио
 
-(Track Penetration Testing (Дипломная работа))[https://github.com/makspomiskiy877/makspomiskiy877/blob/main/diplom]
+[Track Penetration Testing (Дипломная работа)](https://github.com/makspomiskiy877/makspomiskiy877/blob/main/diplom)
 
 
 
